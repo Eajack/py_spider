@@ -150,12 +150,3 @@ if __name__ == '__main__':
     for link in linkPath:
         extraSymbol = (" =>" if (link != linkPath[-1]) else " ")
         print(link,extraSymbol,end='')
-
-
-
-
-
-
-
-
-

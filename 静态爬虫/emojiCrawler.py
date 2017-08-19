@@ -142,4 +142,3 @@ for subLink in subLinks:
 	print("%s has %d failed"%(categoriesFolderNames[count],failnum) )
 
 	count += 1
-
