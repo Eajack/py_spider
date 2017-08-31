@@ -4,13 +4,20 @@
 > * Windows or Linux
 > * Python3.5.2(Python 3.x.x)
 
-##2、内置库
+##2、内置库汇总
 > * urllib
 > * re,os,time
+> * json
 
-##3、第三方库
+##3、第三方库汇总
 > * bs4(BeatifulSoup)
 > * requests
+> * selenium
+> * jieba
+> * wordcloud
+> * matplotlib
+> * scipy
+> * snownlp
 > * [updating...]
 
 ##4、爬虫说明
