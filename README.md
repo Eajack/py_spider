@@ -1,18 +1,18 @@
 
 # python爬虫收集
 
-##1、运行环境
+## 1、运行环境
 
 > * Windows or Linux
 > * Python3.5.2(Python 3.x.x)
 
-##2、内置库汇总
+## 2、内置库汇总
 
 > * urllib
 > * re,os,time
 > * json
 
-##3、第三方库汇总
+## 3、第三方库汇总
 
 > * bs4(BeatifulSoup)
 > * requests
@@ -24,7 +24,7 @@
 > * snownlp
 > * [updating...]
 
-##4、爬虫说明
+## 4、爬虫说明
 
 > * [computer_books.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/Eason_Film.py)：豆瓣"世界著名计算机教材节选"爬虫
 > * [Eason_Film.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/computer_books.py)：豆瓣"Eason电影"爬虫
@@ -33,7 +33,7 @@
 > * [music163_EasonLyrics](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/wiki_6DegreeSeperation.py)：网易云Eason所有歌词爬虫 + 文本分析，详见[Eason_README]()
 > * [updating...]
 
-##5、留坑
+## 5、留坑
 
 > * 多线程/进程（解决爬虫太慢）
 > * Python编程技巧
