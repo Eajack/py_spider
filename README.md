@@ -30,7 +30,7 @@
 > * [Eason_Film.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/computer_books.py)：豆瓣"Eason电影"爬虫
 > * [emojiCrawler.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/emojiCrawler.py)：[emoji官网](http://emojipedia.org/)爬虫，按官网分类爬取所有不同版本的emoji.png图片（eg:Apple,Samsung.Google etc.)
 > * [wiki_6DegreeSeperation.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/wiki_6DegreeSeperation.py)：wiki爬虫，广度优先遍历，为证明“六度分割理论”，暂时只能尝试，并非完全证明
-> * [music163_EasonLyrics](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/wiki_6DegreeSeperation.py)：网易云Eason所有歌词爬虫 + 文本分析，详见[EasonLyrics_README]()
+> * [music163_EasonLyrics](https://github.com/Eajack/py_spider/blob/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonLyrics/EasonLyrics_README.md)：网易云Eason所有歌词爬虫 + 文本分析，详见[EasonLyrics_README](https://github.com/Eajack/py_spider/blob/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonLyrics/EasonLyrics_README.md)
 > * [updating...]
 
 ## 5、留坑
