@@ -1,5 +1,5 @@
 
-# python爬虫收集
+# Eajack's python爬虫项目汇总
 
 ## 1、运行环境
 
