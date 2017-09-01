@@ -14,7 +14,7 @@
 
 ## 3、第三方库汇总
 
-> * bs4(BeatifulSoup)
+> * bs4(BeautifulSoup)
 > * requests
 > * selenium
 > * jieba
