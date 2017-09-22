@@ -32,6 +32,7 @@
 > * [wiki_6DegreeSeperation.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/wiki_6DegreeSeperation.py)：wiki爬虫，广度优先遍历，为证明“六度分割理论”，暂时只能尝试，并非完全证明
 > * [music163_EasonLyrics](https://github.com/Eajack/py_spider/blob/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonLyrics/EasonLyrics_README.md)：网易云Eason所有歌词爬虫 + 文本分析，详见[EasonLyrics_README](https://github.com/Eajack/py_spider/blob/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonLyrics/EasonLyrics_README.md)
 > * [jiandanGirls.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/%E7%A6%8F%E5%88%A9%E7%B3%BB%E5%88%97/jiandan/jiandanGirls.py)：[煎蛋网](http://jandan.net/ooxx)简单的福利爬虫…
+> * [getCity.py]()：基于谷歌地图API简单爬虫，通过经纬度查询该地点所属城市
 > * [updating...]
 
 ## 5、留坑
