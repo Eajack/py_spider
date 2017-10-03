@@ -22,6 +22,8 @@
 > * matplotlib
 > * scipy
 > * snownlp
+> * xlwt
+> * xlrd
 > * [updating...]
 
 ## 4、爬虫说明
