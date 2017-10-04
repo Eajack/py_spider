@@ -33,7 +33,6 @@
 > * [emojiCrawler.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/emojiCrawler.py)：[emoji官网](http://emojipedia.org/)爬虫，按官网分类爬取所有不同版本的emoji.png图片（eg:Apple,Samsung.Google etc.)
 > * [wiki_6DegreeSeperation.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/wiki_6DegreeSeperation.py)：wiki爬虫，广度优先遍历，为证明“六度分割理论”，暂时只能尝试，并非完全证明
 > * [music163_EasonLyrics](https://github.com/Eajack/py_spider/blob/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonLyrics/EasonLyrics_README.md)：网易云Eason所有歌词爬虫 + 文本分析，详见[EasonLyrics_README](https://github.com/Eajack/py_spider/blob/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonLyrics/EasonLyrics_README.md)
-> * [jiandanGirls.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/%E7%A6%8F%E5%88%A9%E7%B3%BB%E5%88%97/jiandan/jiandanGirls.py)：[煎蛋网](http://jandan.net/ooxx)简单的福利爬虫…
 > * [getCity.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/getCity.py)：基于谷歌地图API简单爬虫，通过经纬度查询该地点所属城市
 > * [music163_EasonComments](https://github.com/Eajack/py_spider/tree/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonComments)：网易云Eason所有单曲评论数排行、最新10条评论抓取 & 热门评论文本分析，详见[EasonComments_README](https://github.com/Eajack/py_spider/blob/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonComments/EasonComments_README.md)
 > * [updating...]
