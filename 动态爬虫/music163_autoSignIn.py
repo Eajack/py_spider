@@ -81,8 +81,8 @@ if __name__ == '__main__':
                     r'friendships_groups_read,statuses_to_me_read,follow_app_official_microblog&' +\
                     r'state=zHZaAMjuvv'
     ## 账号密码
-    weiboNum = '15219721307'
-    WeiboPassword = 'CGHLYJ30144?!'
+    weiboNum = '************'
+    WeiboPassword = '************'
 
     # 开始
     autoSignIn(weiboNum,WeiboPassword)
