@@ -35,6 +35,7 @@
 > * [music163_EasonLyrics](https://github.com/Eajack/py_spider/blob/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonLyrics)：网易云Eason所有歌词爬虫 + 文本分析，详见[EasonLyrics_README](https://github.com/Eajack/py_spider/blob/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonLyrics/EasonLyrics_README.md)
 > * [getCity.py](https://github.com/Eajack/py_spider/blob/master/%E9%9D%99%E6%80%81%E7%88%AC%E8%99%AB/getCity.py)：基于谷歌地图API简单爬虫，通过经纬度查询该地点所属城市
 > * [music163_EasonComments](https://github.com/Eajack/py_spider/tree/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonComments)：网易云Eason所有单曲评论数排行、最新10条评论抓取 & 热门评论文本分析，详见[EasonComments_README](https://github.com/Eajack/py_spider/blob/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_EasonComments/EasonComments_README.md)
+> * [music163_autoSignIn.py](https://github.com/Eajack/py_spider/blob/master/%E5%8A%A8%E6%80%81%E7%88%AC%E8%99%AB/music163_autoSignIn.py)：网易云音乐网页端，每天定时自动签到（windows）
 > * [updating...]
 
 ## 5、留坑
