@@ -85,4 +85,4 @@ if __name__ == '__main__':
     weiboPassword = '************'
 
     # 开始
-    autoSignIn(weiboNum,WeiboPassword)
+    autoSignIn(weiboNum,weiboPassword)
